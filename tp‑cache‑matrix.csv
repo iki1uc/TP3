@@ -1,0 +1,13 @@
+ACHSE,CACHE-POSITION,CACHE-FUNKTION
+IX,PRE,Input-Cache
+XI,POST,Stabil-Cache
+X4,POST,Multi-Vektor-Cache
+IO,PRE,Eingangs-Cache
+AIR,POST,Aufstiegs-Cache
+ALLIN,PRE,Vollinput-Cache
+OI,POST,Ausgangs-Cache
+AIV,POST,Abstiegs-Cache
+ALLOUT,POST,Volloutput-Cache
+ORBIT-IN,PRE,Umlauf-Eingang-Cache
+ORBIT-MID,POST,Umlauf-Stabil-Cache
+ORBIT-OUT,POST,Umlauf-Ausgang-Cache

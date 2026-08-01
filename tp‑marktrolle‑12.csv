@@ -1,0 +1,13 @@
+ACHSE,MARKTROLLE,STATUS
+IX,Input-Markt,AKTIV
+XI,Stabil-Markt,AKTIV
+X4,Multi-Markt,AKTIV
+IO,Eingangs-Markt,AKTIV
+AIR,Aufstiegs-Markt,AKTIVIERBAR
+ALLIN,Vollinput-Markt,AKTIV
+OI,Ausgangs-Markt,AKTIV
+AIV,Abstiegs-Markt,AKTIVIERBAR
+ALLOUT,Volloutput-Markt,AKTIV
+ORBIT-IN,Umlauf-Eingang,AKTIV
+ORBIT-MID,Umlauf-Stabil,AKTIV
+ORBIT-OUT,Umlauf-Ausgang,AKTIV

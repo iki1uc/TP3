@@ -1,0 +1,13 @@
+ALGO-ID,ACHSE,ALGO-FUNKTION
+A1,IX,Input-Berechnung
+A2,XI,Stabilitätsprüfung
+A3,X4,Multi-Vektor-Skalierung
+A4,IO,Eingangsfilter
+A5,AIR,Aufstiegslogik
+A6,ALLIN,Vollinput-Optimierung
+A7,OI,Ausgangsfilter
+A8,AIV,Abstiegslogik
+A9,ALLOUT,Volloutput-Optimierung
+A10,ORBIT-IN,Umlauf-Eingang-Check
+A11,ORBIT-MID,Umlauf-Stabilisierung
+A12,ORBIT-OUT,Umlauf-Ausgang-Check

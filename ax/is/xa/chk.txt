@@ -1,4 +1,0 @@
-AXIS=IN
-BP=Start
-TP6=OK
-
